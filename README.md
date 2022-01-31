@@ -4,7 +4,7 @@ Inspired from Infosec Community from i have started #100daysofhacking to keep my
 
 # A Day 1 : Jan 28 2022
 
-✅ Tryhackme: https://t.co/ogR9xandH3
+Tryhackme: https://t.co/ogR9xandH3
 
 ✅Learned bash basics: https://t.co/VtMHIhCjB3
 
