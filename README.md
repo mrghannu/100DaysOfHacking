@@ -20,7 +20,7 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] HTTP/HTTPS : https://t.co/EXOFrWJajT
 
-# A Day 2 : Jan 31 2022
+# A Day 3 : Jan 31 2022
 
 - [x] Tryhackme: https://tryhackme.com/room/introtolan
 
