@@ -6,14 +6,14 @@ Inspired from Infosec Community from i have started #100daysofhacking to keep my
 
 - [x] Tryhackme: https://t.co/ogR9xandH3
 
-✅Learned bash basics: https://t.co/VtMHIhCjB3
+- [x] Learned bash basics: https://t.co/VtMHIhCjB3
 
-✅Linux Command: https://t.co/cce0kPlLN5
+- [x] Linux Command: https://t.co/cce0kPlLN5
 
 # A Day 2 : Jan 29 2022
 
-✅ Tryhackme: https://t.co/mVPndTZdfa
+- [x] Tryhackme: https://t.co/mVPndTZdfa
 
-✅ Basic Networking: https://t.co/I9lq0kakw8
+- [x] Basic Networking: https://t.co/I9lq0kakw8
 
-✅ HTTP/HTTPS : https://t.co/EXOFrWJajT
+- [x] HTTP/HTTPS : https://t.co/EXOFrWJajT
