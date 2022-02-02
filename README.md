@@ -30,7 +30,7 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 A Day 4 of #100DaysOfHacking 
 
-- [x] SQL Injection Lab (Portswigger) :https://t.co/lBdEU6qwMN
+- [x] SQL Injection Lab (Portswigger) : https://t.co/lBdEU6qwMN
 
 - [x] TryHackMe : https://t.co/AKTDgrMB8v
 
