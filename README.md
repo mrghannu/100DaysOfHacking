@@ -36,4 +36,14 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Broken Access Control (OWASP Top 10:2021 ) : https://t.co/VQm4wVnszg
 
+# A Day 4 : Feb 3 2022
+
+- [x] Tryhackme (Linux Fundamentals Part-1) : https://tryhackme.com/room/linuxfundamentalspart1
+
+- [x] SQL Injection Lab (Portswigger) : https://portswigger.net/web-security/sql-injection/union-attacks/lab-find-column-containing-text
+
+- [x] Cryptographic Failures (OWASP Top 10:2021) : https://owasp.org/Top10/A02_2021-Cryptographic_Failures/
+ 
+
+
 
