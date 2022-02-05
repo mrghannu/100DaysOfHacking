@@ -54,6 +54,16 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 # A Day 7 : Feb 5 2022
 
+- [x] Tryhackme (Linux Fundamentals Part-3) : https://tryhackme.com/room/linuxfundamentalspart3
+
+- [x] SQL Injection Lab (Portswigger) : https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column
+
+- [x] An Introduction to Networking Terminology, Interfaces, and Protocols : https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols
+
+- [x] Insecure Design (OWASP Top 10:2021) : https://owasp.org/Top10/A04_2021-Insecure_Design/
+
+- [x] Insecure Design(OWASP Top 10:2021-YOUTUBE) : https://youtu.be/4pCiYtVrxBM
+
 
 
 
