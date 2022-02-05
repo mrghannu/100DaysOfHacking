@@ -44,6 +44,15 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Cryptographic Failures (OWASP Top 10:2021) : https://owasp.org/Top10/A02_2021-Cryptographic_Failures/
  
+# A Day 6 : Feb 4 2022 
+
+- [x] Tryhackme (Linux Fundamentals Part-2) : https://t.co/pB4OnzdrhG
+
+- [x] SQL Injection Lab (Portswigger) : https://t.co/ye6TX825ry
+
+- [x] Injection (OWASP Top 10:2021) : https://owasp.org/Top10/A03_2021-Injection/
+
+
 
 
 
