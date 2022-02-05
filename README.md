@@ -52,6 +52,9 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Injection (OWASP Top 10:2021) : https://owasp.org/Top10/A03_2021-Injection/
 
+# A Day 7 : Feb 5 2022
+
+
 
 
 
