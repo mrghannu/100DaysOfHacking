@@ -64,6 +64,7 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Insecure Design(OWASP Top 10:2021-YOUTUBE) : https://youtu.be/4pCiYtVrxBM
 
+# A Day 8 : Feb 6 2022
 
 
 
