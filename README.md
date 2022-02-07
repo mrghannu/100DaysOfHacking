@@ -70,7 +70,9 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] SQL Injection Lab (Portswigger) : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle
 
-- [x] Security Misconfiguration (OWASP Top 10:2021) : https://owasp.org/Top10/A05_2021-Security_Misconfiguration//
+- [x] Security Misconfiguration (OWASP Top 10:2021) : https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
+
+- [x] Security Misconfiguration (OWASP Top 10:2021-YOUTUBE) : https://youtu.be/JuGSUMtKTPU
 
 
 
