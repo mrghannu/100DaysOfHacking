@@ -68,6 +68,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Tryhackme (Basic Computer Exploitation - Vulnversity) : https://tryhackme.com/room/vulnversity
 
+- [x] SQL Injection Lab (Portswigger) : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle
+
 
 
 
