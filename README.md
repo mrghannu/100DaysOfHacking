@@ -66,6 +66,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 # A Day 8 : Feb 6 2022
 
+- [x] Tryhackme (Basic Computer Exploitation - Vulnversity) : https://tryhackme.com/room/vulnversity
+
 
 
 
