@@ -78,6 +78,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Tryhackme : https://tryhackme.com/room/howwebsiteswork
 
+- [x] SQL Injection Lab (Portswigger) : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft
+
 
 
 
