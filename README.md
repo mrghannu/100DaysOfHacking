@@ -80,6 +80,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] SQL Injection Lab (Portswigger) : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft
 
+- [x] Vulnerable and Outdated Components (OWASP Top 10:2021) : https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+
 
 
 
