@@ -74,6 +74,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Security Misconfiguration (OWASP Top 10:2021-YOUTUBE) : https://youtu.be/JuGSUMtKTPU
 
+# A Day 9 : Feb 7 2022
+
 
 
 
