@@ -84,6 +84,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Vulnerable and Outdated Components (OWASP Top 10:2021-YOUTUBE) : https://youtu.be/IGsNYVDKRV0
 
+# A Day 10 : Feb 8 2022
+
 
 
 
