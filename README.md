@@ -90,6 +90,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] SQL Injection Lab (Portswigger) : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle
 
+- [x] HFS-Scripting commands : https://www.rejetto.com/wiki/index.php/HFS:_scripting_commands
+
 
 
 
