@@ -88,6 +88,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Tryhackme : https://tryhackme.com/room/kenobi
 
+- [x] SQL Injection Lab (Portswigger) : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle
+
 
 
 
