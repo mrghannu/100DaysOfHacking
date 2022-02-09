@@ -92,6 +92,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] HFS-Scripting commands : https://www.rejetto.com/wiki/index.php/HFS:_scripting_commands
 
+- [x] Vulnerable and Outdated Components (OWASP Top 10:2021) : https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components//
+
 
 
 
