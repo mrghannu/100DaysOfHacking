@@ -96,7 +96,15 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Vulnerable and Outdated Components (OWASP Top 10:2021-YOUTUBE) : https://youtu.be/IGsNYVDKRV0
 
+# A Day 11 : Feb 9 2022
+
 - [x] Tryhackme : https://t.co/3uKXIN3nNo
+
+- [x] SQL Injection Lab (Portswigger) : https://t.co/niwe3xviFM
+
+- [x] Google Dorks Tutorial (Null Byte) : https://t.co/mvf04RKsW5
+
+
 
 
 
