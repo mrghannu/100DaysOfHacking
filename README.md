@@ -104,6 +104,10 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Google Dorks Tutorial (Null Byte) : https://t.co/mvf04RKsW5
 
+- [x] Identification and Authentication Failures (OWASP Top 10:2021) : https://t.co/OkGUjcePrw
+
+- [x] Identification and Authentication Failures (OWASP Top 10:2021-YOUTUBE) : https://t.co/2pIYaKJmi6
+
 
 
 
