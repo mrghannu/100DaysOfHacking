@@ -108,6 +108,14 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Identification and Authentication Failures (OWASP Top 10:2021-YOUTUBE) : https://t.co/2pIYaKJmi6
 
+# A Day 12 : Feb 10 2022
+
+- [x] Tryhackme : https://t.co/zJ3j9uAQRF
+
+- [x] Software and Data Integrity Failures (OWASP Top 10:2021) : https://t.co/TFXpalN48C
+
+- [x] Software and Data Integrity Failures (OWASP Top 10:2021-YOUTUBE) : https://t.co/uE40qFhkIO
+
 
 
 
