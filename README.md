@@ -116,6 +116,14 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Software and Data Integrity Failures (OWASP Top 10:2021-YOUTUBE) : https://t.co/uE40qFhkIO
 
+# A Day 13 : Feb 11 2022
+
+- [x] Tryhackme : https://tryhackme.com/room/johntheripper0
+
+- [x] Security Logging and Monitoring Failures (OWASP Top 10:2021) : https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/
+
+- [x] Security Logging and Monitoring Failures (OWASP Top 10:2021-YOUTUBE) : https://youtu.be/IFF3tkUOF5E
+
 
 
 
