@@ -128,6 +128,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Tryhackme : https://t.co/8vQGXZ3HaE
 
+- [x] Learn About OSINT Tools : https://t.co/pXLW2qqC0t
+
 
 
 
