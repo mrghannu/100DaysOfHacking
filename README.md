@@ -124,6 +124,10 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Security Logging and Monitoring Failures (OWASP Top 10:2021-YOUTUBE) : https://youtu.be/IFF3tkUOF5E
 
+# A Day 14 : Feb 12 2022
+
+
+
 
 
 
