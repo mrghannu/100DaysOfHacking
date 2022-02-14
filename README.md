@@ -132,6 +132,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Server-Side Request Forgery (SSRF) (OWASP Top 10:2021) : https://t.co/oBdZ0ys6fu
 
+- [x] Server-Side Request Forgery (SSRF) (OWASP Top 10:2021-YOUTUBE) : https://t.co/mMU94Kjca2
+
 
 
 
