@@ -130,6 +130,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Learn About OSINT Tools : https://t.co/pXLW2qqC0t
 
+- [x] Server-Side Request Forgery (SSRF) (OWASP Top 10:2021) : https://t.co/oBdZ0ys6fu
+
 
 
 
