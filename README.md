@@ -134,6 +134,16 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Server-Side Request Forgery (SSRF) (OWASP Top 10:2021-YOUTUBE) : https://t.co/mMU94Kjca2
 
+# A Day 15 : Feb 13 2022
+
+- [x] Tryhackme : https://tryhackme.com/room/networkservices
+
+- [x] Metasploit For Beginners (The Basic - Modules, Exploits & Payloads) : https://youtu.be/8lR27r8Y_ik
+
+- [x] Blind SQL injection (Portswigger) : https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
+
+
+
 
 
 
