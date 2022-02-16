@@ -148,6 +148,14 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Password Reset Poisoning (Portswigger) : https://t.co/fVMfsb546T
 
+# A Day 17 : Feb 15 2022
+
+- [x] Tryhackme : https://tryhackme.com/jr/owaspjuiceshop
+
+- [x] SQL Syntax : https://www.w3schools.com/sql/sql_syntax.asp
+
+- [x] SQL injection Writeup :  https://link.medium.com/uISvutajHnb
+
 
 
 
