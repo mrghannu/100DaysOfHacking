@@ -142,6 +142,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] Blind SQL injection (Portswigger) : https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
 
+# A Day 16 : Feb 14 2022
+
 
 
 
