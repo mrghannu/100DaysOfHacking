@@ -144,6 +144,10 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 # A Day 16 : Feb 14 2022
 
+- [x] HTTP/3 : https://t.co/sle6wZGIxH
+
+- [x] Password Reset Poisoning (Portswigger) : https://t.co/fVMfsb546T
+
 
 
 
