@@ -156,6 +156,14 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] SQL injection Writeup :  https://link.medium.com/uISvutajHnb
 
+# A Day 18 : Feb 16 2022
+
+- [x] Tryhackme : https://tryhackme.com/room/rpburpsuite
+
+- [x] SQL Select Statement : https://www.w3schools.com/sql/sql_select.asp
+
+- [x] 403 Forbidden Bypass  Writeup :   https://link.medium.com/bwqnAjujHnb
+
 
 
 
