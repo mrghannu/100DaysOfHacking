@@ -166,6 +166,11 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 # A Day 19 : Feb 17 2022
 
+- [x] TryHackMe : https://t.co/UVXbYmNwyD
+
+- [x] SQL SELECT DISTINCT Statement (w3school) : https://t.co/QDkR1aTNwR
+
+- [x] CSRF vulnerability with no defenses (Portswigger) : https://t.co/lPnuEJC6SU
 
 
 
