@@ -172,6 +172,8 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 - [x] CSRF vulnerability with no defenses (Portswigger) : https://t.co/lPnuEJC6SU
 
+# A Day 20 : Feb 18 2022
+
 
 
 
