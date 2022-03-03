@@ -174,6 +174,13 @@ Inspired from Ifosec Community from i have started #100daysofhacking to keep mys
 
 # A Day 20 : Feb 18 2022
 
+- [x] TryHackMe : https://t.co/x8ZYtwHf8b
+
+- [x] SQL WHERE Clause (w3school) : https://t.co/QDkR1aTNwR
+
+- [x] CSRF where token validation depends on request method (Portswigger) : https://t.co/U2nIKeOewS
+
+
 
 
 
